@@ -1,6 +1,22 @@
-# Video-sensing-ball-game
-System-Requirement:
-  web-cam
+# Video Sensing Ball Game
 
-click on allow button when pop-up appears to start any available web-cam
-Then press spacebar key to activate game
+A browser-based computer-vision experiment that uses a webcam as the input for an interactive ball game.
+
+## What it demonstrates
+
+- Webcam-based visual interaction
+- Real-time browser processing
+- Mapping visual input to game controls
+- A simple computer-vision application built for experimentation
+
+## Run locally
+
+1. Open the project in a modern browser.
+2. Allow webcam access when prompted.
+3. Press **Space** to start the game.
+
+A working webcam is required.
+
+## Project status
+
+An early computer-vision/game experiment retained as part of the portfolio history.
